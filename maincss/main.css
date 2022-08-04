@@ -73,8 +73,8 @@ section{background: #fbfbfb;}
 .cont4{position: relative; width: 100%; margin: 120px auto 0; overflow: hidden;padding-top:40px;}
 
 .cont4 .one{width: 100%; overflow: hidden; }
-.cont4 .one li{position: relative; width: 48%; float: left; overflow: hidden;}
-.cont4 .one li:first-child{margin-right:4%; }
+.cont4 .one li{position: relative; width: 48.2%; float: left; overflow: hidden;}
+.cont4 .one li:first-child{margin-right:3.6%; }
 .cont4 .one li img{width: 100%;}
 .cont4 .one li:hover img{transform: scale(1.2); transition:all 0.7s; opacity: 0.8;}
 .cont4 .one li span{font:normal 50px "Bebas Neue";}
