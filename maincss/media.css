@@ -48,7 +48,7 @@
 .cont7>div h2{font-size: 17px;}   
 .cont7>div:nth-child(2) ul{display: none;}
 .cont7 .two li{width: 31.1%;}  
-.cont7 .two li .center{ width: 70%; line-height: 40px; }
+.cont7 .two li .center{ width: 80%; line-height: 40px; font-size:11px; }
      
      
 /*cont8*/      
