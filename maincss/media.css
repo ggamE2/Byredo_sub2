@@ -19,6 +19,7 @@
 .cont3>div:first-child h2{font-size: 17px;} 
 .cont3>div ul{padding: 2.5%; } 
 .cont3>div ul li{margin-top: 40px;}
+.cont3>div:nth-child(2)>ul li .center{width:60%;}     
      
 /*cont4*/   
 .cont4 .one li p{font-size: 17px;}    
