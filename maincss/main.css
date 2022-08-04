@@ -39,7 +39,7 @@ section{background: #fbfbfb;}
 .cont2 .two li :hover img{filter: brightness(85%); transition: all 0.5s;}
 
 
-.cont2 .two li .center{position:absolute; font:bold 14px "Nanum Gothic Coding"; transform: translate(-50%,-50%); top:45%; left:50%;  text-align: center; width: 50%; height: 40px; line-height: 40px; background:rgba(255,255,255,0.3); opacity: 0;}
+.cont2 .two li .center{position:absolute; font:bold 14px "Nanum Gothic Coding"; transform: translate(-50%,-50%); top:45%; left:50%;  text-align: center; width: 52%; height: 40px; line-height: 40px; background:rgba(255,255,255,0.3); opacity: 0;}
 .cont2 .two li:hover .center{ opacity: 1; transition: 0.7s;}
 .cont2 .two li .name{text-align: center; font:bold 14px "Nanum Gothic Coding"; margin-top: 3px;}
 .cont2 .two li .price{text-align: center; font:13px; margin-top: 2px;}
@@ -62,7 +62,7 @@ section{background: #fbfbfb;}
 
 
 
-.cont3>div:nth-child(2)>ul li .center{position:absolute; font:bold 14px "Nanum Gothic Coding"; transform: translate(-50%,-50%); top:45%; left:50%;  text-align: center; width: 50%; height: 40px; line-height: 40px; background:rgba(255,255,255,0.3); opacity: 0;}
+.cont3>div:nth-child(2)>ul li .center{position:absolute; font:bold 14px "Nanum Gothic Coding"; transform: translate(-50%,-50%); top:45%; left:50%;  text-align: center; width: 52%; height: 40px; line-height: 40px; background:rgba(255,255,255,0.3); opacity: 0;}
 .cont3>div:nth-child(2)>ul li:hover .center{ opacity: 1; transition: 0.7s;}
 .cont3>div:nth-child(2)>ul li .name{text-align: center; font:bold 14px "Nanum Gothic Coding"; margin-top: 3px;}
 .cont3>div:nth-child(2)>ul li .price{text-align: center; font:13px; margin-top: 2px;}
@@ -88,7 +88,7 @@ section{background: #fbfbfb;}
 .cont4 .two li :hover img{filter: brightness(85%); transition: all 0.5s;}
 
 
-.cont4 .two li .center{position:absolute; font:bold 14px "Nanum Gothic Coding"; transform: translate(-50%,-50%); top:45%; left:50%;  text-align: center; width: 50%; height: 40px; line-height: 40px; background:rgba(255,255,255,0.3); opacity: 0;}
+.cont4 .two li .center{position:absolute; font:bold 14px "Nanum Gothic Coding"; transform: translate(-50%,-50%); top:45%; left:50%;  text-align: center; width: 52%; height: 40px; line-height: 40px; background:rgba(255,255,255,0.3); opacity: 0;}
 .cont4 .two li:hover .center{ opacity: 1; transition: 0.7s;}
 .cont4 .two li .name{text-align: center; font:bold 14px "Nanum Gothic Coding"; margin-top: 3px;}
 .cont4 .two li .price{text-align: center; font:13px; margin-top: 2px;}
@@ -115,7 +115,7 @@ section{background: #fbfbfb;}
 .cont5 .two li :hover img{filter: brightness(85%); transition: all 0.5s;}
 
 
-.cont5 .two li .center{position:absolute; font:bold 14px "Nanum Gothic Coding"; transform: translate(-50%,-50%); top:45%; left:50%;  text-align: center; width: 50%; height: 40px; line-height: 40px; background:rgba(255,255,255,0.3); opacity: 0;}
+.cont5 .two li .center{position:absolute; font:bold 14px "Nanum Gothic Coding"; transform: translate(-50%,-50%); top:45%; left:50%;  text-align: center; width: 52%; height: 40px; line-height: 40px; background:rgba(255,255,255,0.3); opacity: 0;}
 .cont5 .two li:hover .center{ opacity: 1; transition: 0.7s;}
 .cont5 .two li .name{text-align: center; font:bold 14px "Nanum Gothic Coding"; margin-top: 3px;}
 .cont5 .two li .price{text-align: center; font:13px; margin-top: 2px;}
@@ -142,7 +142,7 @@ section{background: #fbfbfb;}
 .cont6>div:nth-child(2) li:hover img{filter: brightness(85%); transition: all 0.5s;}
 
 
-.cont6>div:nth-child(2) ul li .center{position:absolute; font:bold 14px "Nanum Gothic Coding"; transform: translate(-50%,-50%); top:45%; left:50%;  text-align: center; width: 50%; height: 40px; line-height: 40px; background:rgba(255,255,255,0.3); opacity: 0;}
+.cont6>div:nth-child(2) ul li .center{position:absolute; font:bold 14px "Nanum Gothic Coding"; transform: translate(-50%,-50%); top:45%; left:50%;  text-align: center; width: 52%; height: 40px; line-height: 40px; background:rgba(255,255,255,0.3); opacity: 0;}
 .cont6>div:nth-child(2) ul li:hover .center{ opacity: 1; transition: 0.7s;}
 .cont6>div:nth-child(2) ul li .name{text-align: center; font:bold 14px "Nanum Gothic Coding"; margin-top: 3px;}
 .cont6>div:nth-child(2) ul li .price{text-align: center; font:normal 13px "Malgun Gothic"; margin-top: 2px;}
@@ -157,7 +157,7 @@ section{background: #fbfbfb;}
 .cont6 .two li:hover img{filter: brightness(85%); transition: all 0.5s;}
 
 
-.cont6 .two li .center{position:absolute; font:bold 14px "Nanum Gothic Coding"; transform: translate(-50%,-50%); top:45%; left:50%;  text-align: center; width: 50%; height: 40px; line-height: 40px; background:rgba(255,255,255,0.3); opacity: 0;}
+.cont6 .two li .center{position:absolute; font:bold 14px "Nanum Gothic Coding"; transform: translate(-50%,-50%); top:45%; left:50%;  text-align: center; width: 52%; height: 40px; line-height: 40px; background:rgba(255,255,255,0.3); opacity: 0;}
 .cont6 .two li:hover .center{ opacity: 1; transition: 0.7s;}
 .cont6 .two li .name{text-align: center; font:bold 14px "Nanum Gothic Coding"; margin-top: 3px;}
 .cont6 .two li .price{text-align: center; font:13px; margin-top: 2px;}
@@ -178,7 +178,7 @@ section{background: #fbfbfb;}
 .cont7>div:nth-child(2)>ul li:hover img{filter: brightness(85%); transition: all 0.5s;}
 
 
-.cont7>div:nth-child(2)>ul li .center{position:absolute; font:bold 14px "Nanum Gothic Coding"; transform: translate(-50%,-50%); top:45%; left:50%;  text-align: center; width: 50%; height: 40px; line-height: 40px; background:rgba(255,255,255,0.3); opacity: 0;}
+.cont7>div:nth-child(2)>ul li .center{position:absolute; font:bold 14px "Nanum Gothic Coding"; transform: translate(-50%,-50%); top:45%; left:50%;  text-align: center; width: 52%; height: 40px; line-height: 40px; background:rgba(255,255,255,0.3); opacity: 0;}
 .cont7>div:nth-child(2)>ul li:hover .center{ opacity: 1; transition: 0.7s;}
 .cont7>div:nth-child(2)>ul li .name{text-align: center; font:bold 14px "Nanum Gothic Coding"; margin-top: 3px;}
 .cont7>div:nth-child(2)>ul li .price{text-align: center; font:13px; margin-top: 2px;}
@@ -191,7 +191,7 @@ section{background: #fbfbfb;}
 .cont7 .two li img{width: 100%; }
 .cont7 .two li:hover img{filter: brightness(85%); transition: all 0.5s;}
 
-.cont7 .two li .center{position:absolute; font:bold 14px "Nanum Gothic Coding"; transform: translate(-50%,-50%); top:45%; left:50%;  text-align: center; width: 50%; height: 40px; line-height: 40px; background:rgba(255,255,255,0.3); opacity: 0;}
+.cont7 .two li .center{position:absolute; font:bold 14px "Nanum Gothic Coding"; transform: translate(-50%,-50%); top:45%; left:50%;  text-align: center; width: 52%; height: 40px; line-height: 40px; background:rgba(255,255,255,0.3); opacity: 0;}
 .cont7 .two li:hover .center{ opacity: 1; transition: 0.7s;}
 .cont7 .two li .name{text-align: center; font:bold 14px "Nanum Gothic Coding"; margin-top: 3px;}
 .cont7 .two li .price{text-align: center; font:13px; margin-top: 2px;}
@@ -218,7 +218,7 @@ section{background: #fbfbfb;}
 .cont8 .two li:hover img{filter: brightness(85%); transition: all 0.5s;}
 
 
-.cont8 .two li .center{position:absolute; font:bold 14px "Nanum Gothic Coding"; transform: translate(-50%,-50%); top:45%; left:50%;  text-align: center; width: 50%; height: 40px; line-height: 40px; background:rgba(255,255,255,0.3); opacity: 0;}
+.cont8 .two li .center{position:absolute; font:bold 14px "Nanum Gothic Coding"; transform: translate(-50%,-50%); top:45%; left:50%;  text-align: center; width: 52%; height: 40px; line-height: 40px; background:rgba(255,255,255,0.3); opacity: 0;}
 .cont8 .two li:hover .center{ opacity: 1; transition: 0.7s;}
 .cont8 .two li .name{text-align: center; font:bold 14px "Nanum Gothic Coding"; margin-top: 3px;}
 .cont8 .two li .price{text-align: center; font:13px; margin-top: 2px;}
