@@ -11,7 +11,8 @@
 
 section{background: #fbfbfb;}
 
-
+.location{font: normal 15px "Share Tech Mono"; margin-top: 10px;}
+.location a:hover {opacity: 0.5;}
 
 /*---------cont1---------*/
 .cont1{position: relative; width: 100%; margin: 0 auto; overflow: hidden; background: #fff; }
