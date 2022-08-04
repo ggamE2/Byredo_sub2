@@ -12,7 +12,7 @@
 .cont2 .one li p{font-size: 17px;} 
      
 .cont2 .two li {width: 31%;}
-.cont2 .two li .center{ width: 70%; line-height: 40px; }
+.cont2 .two li .center{ width: 80%; line-height: 40px; font-size:11px; }
      
 /*cont3*/      
 .cont3>div{width: 100%;}
