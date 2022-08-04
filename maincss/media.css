@@ -41,7 +41,7 @@
  
 .cont6 .two li{width: 31.1%;}     
 .cont6 .two li:nth-child(3n){margin-right: 0;}
-.cont6 .two li .center{ width: 70%; line-height: 40px; }
+.cont6 .two li .center{ width: 80%; line-height: 40px; font-size:11px; }
      
 /*cont7*/      
 .cont7>div{width: 100%;}  
