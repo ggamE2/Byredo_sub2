@@ -141,8 +141,6 @@ table{ border-collapse:collapse;}
     border: 1px solid #999;
 }
 
-
-
 .search_in .close_btn{
     float: right;
     width: 5%;
@@ -185,7 +183,25 @@ table{ border-collapse:collapse;}
 /*----left_menu______ 버튼들-----*/
 .left_logo{position: absolute; top:80%; left:40%; text-align: center; }
 .left_logo img{width: 50px;}
-.left_menu .close{position:absolute;top:8px;right:18px;color:#000;font-size:25px;cursor: pointer;}
+.left_menu .close {
+    position: absolute;
+    top: 8px;
+    right: 15px;
+    color: #000;
+    font-size: 25px;
+    cursor: pointer;
+}
+
+.left_menu .close img {
+    position: relative;
+    width: 38px;
+}
+
+.left_menu .close img:hover {
+    transform: rotate(90deg);
+    transition: all 0.5s;
+}
+
 .left_menu .user img{position: absolute; top:15px; left:15px; width: 23px;}
 .left_menu .user img:hover{filter: invert(77%) sepia(13%) saturate(588%) hue-rotate(96deg) brightness(104%) contrast(90%);}
 .left_menu .logo_s {position: absolute; width: 100%;  top:600px; text-align: center; }
